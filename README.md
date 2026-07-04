@@ -62,11 +62,11 @@ Goal      : Build software that makes people's lives easier.
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/amir-hossein_2834">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amirpasban.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
