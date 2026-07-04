@@ -62,10 +62,6 @@ Goal      : Build software that makes people's lives easier.
 
 <p align="center">
 
-<a href="https://t.me/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=discord" width="45"/>
-</a>
-
 <a href="https://instagram.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
