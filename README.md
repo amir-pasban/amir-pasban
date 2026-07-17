@@ -1,148 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,40:1E3A8A,100:2563EB&text=Amir%20Pasban&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,50:1E3A8A,100:2563EB&text=Amir%20Pasban&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+the+future+with+code.;Making+technology+simple+for+everyone.)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+the+future+with+code.;Making+technology+simple+for+everyone.)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
+<div align="center">
 
 # 👋 Hello, I'm Amir Pasban
 
-💙 Front-End Developer passionate about building modern, clean and user-friendly web experiences.
+💙 **Front-End Developer** passionate about building modern, clean and user-friendly web experiences.
 
-> **"I build software to make people's lives easier."**
+> *"I build software to make people's lives easier."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 About Me
+
+</div>
+
+<div align="center">
+
+💻 Front-End Developer
+
+🌱 Started programming at **15**
+
+⏳ **2+ years** of coding experience
+
+📚 Currently learning **JavaScript**
+
+🚀 Working on my **Personal Portfolio**
+
+🎯 My mission is to build software that makes life easier.
+
+🌍 Always learning something new.
+
+</div>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Front-End Developer
-- 🌱 Started programming at **15**
-- ⏳ 2+ years of coding experience
-- 📚 Currently learning **JavaScript**
-- 🎯 Goal: Build useful products and help people through technology
-- 🔥 Working on my personal **Portfolio Website**
-- 🌍 Always improving my skills one project at a time
-
----
+<div align="center">
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
 
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amir-pasban&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amir-pasban&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=amir-pasban&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=amir-pasban&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-pasban&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-pasban&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-pasban&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amir-pasban&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
+<div align="center">
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🌐 AmirPasban.ir
 
 My personal portfolio where I showcase my projects, skills and journey as a Front-End Developer.
 
-🔗 **Repository**  
-https://github.com/amir-pasban/Amirpasban.ir
+<br>
 
-🌍 **Live Demo**  
-https://amir-pasban.github.io/Amirpasban.ir/
+<a href="https://github.com/amir-pasban/Amirpasban.ir">
+<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://amir-pasban.github.io/Amirpasban.ir/">
+<img src="https://img.shields.io/badge/Live Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 💱 Tabdil JO
 
 A modern web application for converting currencies and measurement units with a clean and responsive interface.
 
-🔗 **Repository**  
-https://github.com/amir-pasban/converter
+<br>
 
-🌍 **Live Demo**  
-https://amir-pasban.github.io/converter/
+<a href="https://github.com/amir-pasban/converter">
+<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://amir-pasban.github.io/converter/">
+<img src="https://img.shields.io/badge/Live Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build amazing web applications
-- 📚 Master JavaScript
-- ⚛️ Start learning React
-- 📝 Create a modern To-Do List application
-- 🌍 Contribute to Open Source
-- 💼 Start working as a professional Front-End Developer
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/amir-pasban">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://t.me/AMIR_PASBAN_DEV">
-<img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="45"/>
-</a>
-
-<a href="https://www.instagram.com/amir_hossein_2834">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45"/>
-</a>
-
-<a href="mailto:AmirPasban.dev@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 🎯 2026 Goals
+
+🚀 Build high-quality web applications
+
+📚 Master JavaScript
+
+⚛️ Learn React
+
+📝 Develop a modern To-Do List
+
+🌍 Contribute to Open Source
+
+💼 Become a Professional Front-End Developer
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<br>
+
+<a href="https://github.com/amir-pasban">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://t.me/AMIR_PASBAN_DEV">
+<img src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/amir_hossein_2834">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:AmirPasban.dev@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting!
 
 *"Building the future, one line of code at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1120,40:1E3A8A,100:2563EB"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1120,50:1E3A8A,100:2563EB"/>
 
 </div>
