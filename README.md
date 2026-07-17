@@ -66,7 +66,7 @@
 
 <br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=amir-pasban&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=amir-pasban&theme=tokyonight&hide_border=true"/>
 
 </div>
 
