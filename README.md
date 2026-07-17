@@ -66,13 +66,7 @@
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amir-pasban&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=amir-pasban&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-pasban&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -171,19 +165,13 @@ A modern web application for converting currencies and measurement units with a 
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://t.me/AMIR_PASBAN_DEV">
 <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/amir_hossein_2834">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:AmirPasban.dev@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
