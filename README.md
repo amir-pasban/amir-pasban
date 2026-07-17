@@ -42,6 +42,8 @@ Goal      : Build software that makes people's lives easier.
 
 ---
 
+<img src="https://camo.githubusercontent.com/bc01fd0e52cbe7fd01e720f09745e51305c70b9413e5d49701e5bdcb658d46ff/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d43686172756d617468692d50267468656d653d746f6b796f2d6e69676874" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=amir-pasban&amp;theme=tokyo-night" style="max-width: 100%;">
+
 ## 🚀 Current Project
 
 ### Tabdil Jo
