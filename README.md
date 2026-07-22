@@ -169,7 +169,7 @@ A modern web application for converting currencies and measurement units with a 
 <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
 </a>
 
-<a href="https://www.instagram.com/amir_hossein_2834">
+<a href="https://www.instagram.com/amir_pasban_dev">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
 
